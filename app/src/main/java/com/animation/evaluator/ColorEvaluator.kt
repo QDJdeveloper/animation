@@ -5,7 +5,7 @@ import android.animation.TypeEvaluator
 /**
  * 创建时间: 2019/07/26 15:00 <br>
  * 作者: qiudengjiao <br>
- * 描述:
+ * 描述: 颜色选择估值器
  */
 class ColorEvaluator : TypeEvaluator<String> {
 
