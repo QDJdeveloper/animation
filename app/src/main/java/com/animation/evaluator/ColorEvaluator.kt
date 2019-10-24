@@ -95,5 +95,5 @@ class ColorEvaluator : TypeEvaluator<String> {
   }
 
 
-  
+
 }
